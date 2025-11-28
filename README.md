@@ -47,6 +47,10 @@ offset = (pageNumber - 1) * pageSize
 - pageNumber decreases  
 - new offset is calculated  
 - previous 10 records are fetched
+  <img width="1366" height="646" alt="Screenshot (958)" src="https://github.com/user-attachments/assets/6f0a137c-c78f-4db2-9248-b1c88939202c" />
+<img width="1366" height="605" alt="Screenshot (957)" src="https://github.com/user-attachments/assets/069102c6-0f3a-4399-8ca3-b9e0257f0c98" />
+<img width="1366" height="621" alt="Screenshot (956)" src="https://github.com/user-attachments/assets/edfd2658-b556-4848-a982-61aa1c338aea" />
+
   
  Future Enhancements
 
